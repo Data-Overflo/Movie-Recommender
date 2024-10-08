@@ -1,8 +1,4 @@
 pip
-setuptools wheel build
-
-
-
 streamlit-vega-lite==0.1.0
 streamlit-player==0.1.5
 streamlit-lottie==0.0.3
