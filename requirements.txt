@@ -5,7 +5,7 @@ streamlit-tags
 pandas
 numpy
 streamlit
-hydralit-components
+hydralit_components
 scikit-learn
 mlxtend
 seaborn
