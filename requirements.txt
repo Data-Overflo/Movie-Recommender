@@ -1,7 +1,7 @@
 streamlit-vega-lite
 streamlit-player
 streamlit-lottie
-streamlit-tags==
+streamlit-tags
 pandas
 numpy
 streamlit
