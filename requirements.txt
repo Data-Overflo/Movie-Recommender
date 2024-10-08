@@ -1,5 +1,5 @@
-upgrade pip
-upgrade setuptools wheel build
+pip
+setuptools wheel build
 
 
 
