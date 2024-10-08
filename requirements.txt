@@ -3,7 +3,7 @@ streamlit-player
 streamlit-lottie
 streamlit-tags
 pandas
-numpy==1.21.4
+numpy==1.19.5
 streamlit
 hydralit_components
 scikit-learn
