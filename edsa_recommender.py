@@ -19,7 +19,9 @@
 # Streamlit dependencies
 import streamlit as st
 import streamlit.web.cli as stcli
-import hydralit_components as hc
+# import hydralit_components as hc
+from numpy import isin
+
 
 # Data handling dependencies
 import pandas as pd
