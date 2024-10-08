@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit.web.cli as stcli
 # import hydralit_components as hc
 from numpy import isin
-from scikit-learn.neighbors import NearestNeighbors
+from sklearn.neighbors import NearestNeighbors
 # Data handling dependencies
 import pandas as pd
 import numpy as np
